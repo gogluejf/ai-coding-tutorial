@@ -36,7 +36,7 @@ Choose an AI coding assistant: **Codex, Claude Code, or Squid-OS**. Install it u
 
 - **Codex:** sign in with your OpenAI/ChatGPT account if your plan supports Codex access.
 - **Claude Code:** use its supported Anthropic sign-in or API access. An OpenAI subscription does not provide Claude access.
-- **Squid-OS:** configure a supported provider. If your installed version offers OpenAI subscription sign-in, follow that setup; otherwise use a supported API connection.
+- **Squid-OS:** [github.com/gogluejf/squid-os](https://github.com/gogluejf/squid-os) — configure a supported provider. If your installed version offers OpenAI subscription sign-in, follow that setup; otherwise use a supported API connection. If you go the skill route, you will need to compile it following the instructions in the repo.
 
 A ChatGPT subscription and paid API access are not the same thing. Check the tool's access requirements before paying for anything. Enter credentials only through the tool's secure setup, not in a prompt or project file.
 
