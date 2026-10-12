@@ -33,6 +33,7 @@ export default function App() {
             <th>Name</th>
             <th>Email</th>
             <th>Birthday</th>
+            <th>City</th>
           </tr>
         </thead>
         <tbody>
@@ -41,6 +42,7 @@ export default function App() {
               <td>{person.name}</td>
               <td>{person.email}</td>
               <td>{person.birthday}</td>
+              <td>{person.city}</td>
             </tr>
           ))}
         </tbody>
