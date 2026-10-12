@@ -32,6 +32,8 @@ A commit saves a local checkpoint of your code so you can review or return to it
 
 ## Before you begin
 
+This repo shows the finished result. Do not clone it — start from scratch in your own empty folder.
+
 Choose an AI coding assistant: **Codex, Claude Code, or Squid-OS**. Install it using its official instructions, then follow its sign-in or provider setup.
 
 - **Codex:** sign in with your OpenAI/ChatGPT account if your plan supports Codex access.
