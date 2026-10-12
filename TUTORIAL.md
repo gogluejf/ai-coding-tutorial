@@ -184,6 +184,18 @@ Tell me whether I need to restart anything and how to check the result.
 
 **Notice:** check the city in three places: the CSV, http://localhost:8000/people, and the webpage. Try changing one city yourself, save the CSV, and refresh the webpage.
 
+## 9. Make the CSS pretty
+
+**Intent:** alter the visual look of the React page while it runs live in your browser.
+
+```text
+Make the CSS pretty for the website. Use a modern dark theme.
+Keep it simple — just update the CSS file, do not change the data
+or table structure.
+```
+
+**Notice:** keep your browser open on http://localhost:5173 and the Vite server running. As soon as the assistant saves the CSS file, you will see the page change live in your browser — no refresh needed. This is hot-reload: Vite watches your files and pushes updates instantly.
+
 ## If you get stuck
 
 Stay on the current step and send this prompt with the error message:
